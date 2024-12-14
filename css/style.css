@@ -81,7 +81,7 @@
      border-radius: 9999px;
  }
 
- #research {
+ #researchhhh {
      color: #3538CD;
      text-align: center;
      font-size: 14px;
@@ -390,8 +390,9 @@
  #mentalModels {
      vertical-align: top;
      display: inline-block;
-     max-width: 344px;
+     max-width: 384px;
      width: 100%;
+     margin-top: 48px
  }
 
  #demiWilkinson {
@@ -403,7 +404,7 @@
      line-height: 20px;
  }
 
- #mentalModels {
+ #mentalModelsss {
      color: #181D27;
      display: inline-block;
      font-size: 24px;
@@ -411,10 +412,9 @@
      font-weight: 600;
      line-height: 32px;
      vertical-align: middle;
-     max-width: 384px;
+     max-width: 344px;
      width: 100%;
-     margin-top: 48px;
-
+     margin-top: 8px;
  }
 
  #arrowwthree {
@@ -423,7 +423,8 @@
  }
 
  #simpleExpressions {
-     width: 384px;
+     max-width: 384px;
+     width: 100%;
      margin-top: 8px;
      color: #535862;
      font-size: 16px;
@@ -439,7 +440,7 @@
      background: #F0F9FF;
      color: #026AA2;
      font-size: 14px;
-     Re font-style: normal;
+     font-style: normal;
      font-weight: 500;
  }
 
@@ -452,44 +453,204 @@
      vertical-align: middle;
  }
 
+ #buttonDesignOne {
+     display: inline-block;
+     margin-left: 8px;
+
+ }
+
  #researchButton {
-     background: #EEF4FF;
+     padding: 8px 12px;
+     border: 1px solid #C7D7FE;
+     border-radius: 9999px;
      color: #3538CD;
-     border: none;
+     background: #EEF4FF;
+     font-size: 14px;
+     font-style: normal;
+     font-weight: 500;
+ }
+
+ #frame {
+     padding: 8px 12px;
+     border: 1px solid #F9DBAF;
+     color: #B93815;
+     border-radius: 9999px;
+     background: #FEF6EE;
+     font-size: 14px;
+     font-style: normal;
+     font-weight: 500;
+
+
+ }
+
+ #frameWorks {
+     display: inline-block;
+     margin-left: 8px;
+ }
+
+ #wireFramingBox {
+     vertical-align: top;
+     display: inline-block;
+     max-width: 384px;
+     width: 100%;
+     margin-left: 32px;
+     margin-top: 48px;
+ }
+
+ #candice {
+     color: #6941C6;
+     margin-top: 20px;
+     font-size: 14px;
+     font-style: normal;
+     font-weight: 600;
+     line-height: 20px;
+ }
+
+ #wireFraming {
+     color: #181D27;
+     margin-top: 8px;
+     display: inline-block;
+     font-size: 24px;
+     font-style: normal;
+     font-weight: 600;
+     line-height: 32px;
+     vertical-align: middle;
+     max-width: 344px;
+     width: 100%;
+ }
+
+ #arrowwPhoto {
+     margin-top: 8px;
+     vertical-align: middle;
+ }
+
+ #wireFraminIntroduction {
+     max-width: 384px;
+     width: 100%;
+     margin-top: 8px;
+     color: #535862;
+     font-size: 16px;
+     font-style: normal;
+     font-weight: 400;
+ }
+
+ #buttonBoxFour {
+     margin-top: 24px;
+     vertical-align: middle;
+ }
+
+ #designBox {
+     display: inline-block;
+     vertical-align: middle;
+
+ }
+
+ #designOne {
+     padding: 8px 16px;
+     border-radius: 9999px;
+     border: 1px solid #E9D7FE;
+     background: #F9F5FF;
+     color: #6941C6;
+
+ }
+
+ #researchButtonBox {
+     margin-left: 8px;
+     display: inline-block;
+     vertical-align: middle;
  }
 
  #research {
-     display: inline-block;
-     vertical-align: middle;
-     margin-left: 8px;
-     width: 77px;
-     height: 36px;
+     padding: 8px 16px;
      border-radius: 9999px;
      border: 1px solid #C7D7FE;
      background: #EEF4FF;
      color: #3538CD;
      font-size: 14px;
-     font-style: normal;
      font-weight: 500;
-
+     font-style: normal;
  }
 
- #researchh {
+ #collaborationBox {
+     vertical-align: top;
      display: inline-block;
-     margin-left: 8px;
-     width: 77px;
-     height: 36px;
-     border-radius: 9999px;
-     border: 1px solid #F9DBAF;
-     background: #FEF6EE;
+     max-width: 384px;
+     width: 100%;
+     margin-left: 24px;
+     margin-top: 48px;
+ }
+
+ #nataliCraig {
+     color: #6941C6;
+     margin-top: 20px;
      font-size: 14px;
      font-style: normal;
+     font-weight: 600;
+     line-height: 20px;
+ }
+
+ #betterDesingers {
+     color: #181D27;
+     margin-top: 8px;
+     display: inline-block;
+     font-size: 24px;
+     font-style: normal;
+     font-weight: 600;
+     vertical-align: middle;
+     max-width: 344px;
+     width: 100%;
+ }
+
+ #pointer {
+     vertical-align: middle;
+     margin-bottom: 17px;
+ }
+
+ #collaborationBenefits {
+     max-width: 384px;
+     width: 100%;
+     margin-top: 8px;
+     color: #535862;
+     font-size: 16px;
+     font-style: normal;
+     font-weight: 400;
+ }
+
+ #buttonBoxFive {
+     margin-top: 24px;
+     vertical-align: middle;
+ }
+
+ #designer {
+     display: inline-block;
+     vertical-align: middle;
+ }
+
+ #designerButton {
+     padding: 8px 16px;
+     border: 1px solid #E9D7FE;
+     background: #F9F5FF;
+     border-radius: 9999px;
+     color: #6941C6;
+     font-size: 14px;
      font-weight: 500;
-     color: #B93815;
+     font-style: normal;
+ }
+
+ #researcher {
+     margin-left: 8px;
+     display: inline-block;
+     vertical-align: middle;
 
  }
 
- #researchButtonn {
-     display: inline-block;
-     vertical-align: middle;
+ #researcherBox {
+     padding: 8px 16px;
+     border: 1px solid #C7D7FE;
+     background: #EEF4FF;
+     border-radius: 9999px;
+     color: #3538CD;
+     font-size: 14px;
+     font-weight: 500;
+     font-style: normal
  }
